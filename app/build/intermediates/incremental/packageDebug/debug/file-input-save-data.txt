@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed May 02 02:21:20 SAST 2018
+0.baseType=DIRECTORY
+0.base=/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
