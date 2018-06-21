@@ -33,6 +33,7 @@
             android:windowSoftInputMode="adjustResize|adjustNothing" />
         <activity android:name="za.co.eduassistgo.edu_assisthealth.webView" />
         <activity android:name="za.co.eduassistgo.edu_assisthealth.contactUs" />
+        <activity android:name="za.co.eduassistgo.edu_assisthealth.Home" />
 
         <receiver
             android:name="com.google.android.gms.analytics.AnalyticsReceiver"

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-27:12
+ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-32:12
 MERGED from [com.google.android.gms:play-services-ads:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.0.aar/3fe6e9bb5f69e5dda96e3a005d8f34c2/AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.gms:play-services-analytics:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/5ddc0acff88bfb1f1be5b0c2be3ecba0/AndroidManifest.xml:17:1-47:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/AndroidManifest.xml:17:1-31:12
@@ -13,11 +13,11 @@ MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] /home/s/sbnnk
 MERGED from [com.google.android.gms:play-services-gass:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.0.aar/d594ab5b15869e33e667ef8304d6cb42/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.0.aar/7064a4b5ade8aed1cff387cadb4ab4fc/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-analytics-impl:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-15.0.0.aar/7f76d34e1aeb0489fc542f3d6945851e/AndroidManifest.xml:17:1-31:12
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.0.aar/2d6d6d48ccf4715e2699210655489c1a/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-base:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-stats:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.0.aar/5d191d26d8c1a3b9186e0d93e18d93c0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-tasks:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.0.aar/025ab2333fae06eec8ef7db8febb6a37/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.0.aar/a8ee1ec02d02a86af2c417264b1e1d73/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/4cf8b5053f71c5d6ddf846481c4beae3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/4924bc32fca9e77e15dd737dce12a310/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/25924a238719559d134c235c918934f8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/24a9ea90d9d0058aca295c52c31690ce/AndroidManifest.xml:17:1-28:12
 MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.0.aar/45b76e34995215e54e93a7e250e9abc6/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4195c4f4ab6b3a77b156734b23a4838a/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b9639dea2576496bfb4e0a4476f68d9a/AndroidManifest.xml:17:1-28:12
@@ -28,25 +28,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] /home/s/sbnnko004/.g
 MERGED from [com.android.support:support-core-ui:26.1.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/179b625332158685b7729d685c373505/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/82dc9505f94de0270b58fbda10d794ef/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6f7a526be77fbec6eade80f0b932b322/AndroidManifest.xml:17:1-30:12
-INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-32:12
 	package
 		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:3:5-49
 		INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml
 		INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml
-		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-27:12
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-32:12
 		INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml
-		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-27:12
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-32:12
 		INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:4:5-79
+ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:5:5-79
 MERGED from [com.google.android.gms:play-services-analytics:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/5ddc0acff88bfb1f1be5b0c2be3ecba0/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-analytics:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/5ddc0acff88bfb1f1be5b0c2be3ecba0/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.0.aar/06a0e4774b1e7233a87dfc749dd19564/AndroidManifest.xml:24:5-79
@@ -54,9 +54,9 @@ MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] /home/s/sbnnk
 MERGED from [com.google.android.gms:play-services-analytics-impl:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-15.0.0.aar/7f76d34e1aeb0489fc542f3d6945851e/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-analytics-impl:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-15.0.0.aar/7f76d34e1aeb0489fc542f3d6945851e/AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:4:22-76
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:5:22-76
 uses-permission#android.permission.INTERNET
-ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:5:5-67
+ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:6:5-67
 MERGED from [com.google.android.gms:play-services-analytics:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/5ddc0acff88bfb1f1be5b0c2be3ecba0/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-analytics:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/5ddc0acff88bfb1f1be5b0c2be3ecba0/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.0.aar/06a0e4774b1e7233a87dfc749dd19564/AndroidManifest.xml:23:5-67
@@ -64,21 +64,21 @@ MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] /home/s/sbnnk
 MERGED from [com.google.android.gms:play-services-analytics-impl:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-15.0.0.aar/7f76d34e1aeb0489fc542f3d6945851e/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-analytics-impl:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-15.0.0.aar/7f76d34e1aeb0489fc542f3d6945851e/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.WAKE_LOCK
-ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:6:5-68
+ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:7:5-68
 MERGED from [com.google.android.gms:play-services-analytics:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/5ddc0acff88bfb1f1be5b0c2be3ecba0/AndroidManifest.xml:27:5-68
 MERGED from [com.google.android.gms:play-services-analytics:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/5ddc0acff88bfb1f1be5b0c2be3ecba0/AndroidManifest.xml:27:5-68
 MERGED from [com.google.android.gms:play-services-analytics-impl:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-15.0.0.aar/7f76d34e1aeb0489fc542f3d6945851e/AndroidManifest.xml:27:5-68
 MERGED from [com.google.android.gms:play-services-analytics-impl:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-15.0.0.aar/7f76d34e1aeb0489fc542f3d6945851e/AndroidManifest.xml:27:5-68
 	android:name
-		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:6:22-65
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:7:22-65
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:7:5-82
+ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:8:5-82
 	android:name
-		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:7:22-79
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:8:22-79
 application
-ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:8:5-25:19
+ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:10:5-30:19
 MERGED from [com.google.android.gms:play-services-analytics:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/5ddc0acff88bfb1f1be5b0c2be3ecba0/AndroidManifest.xml:29:5-45:19
 MERGED from [com.google.android.gms:play-services-analytics:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/5ddc0acff88bfb1f1be5b0c2be3ecba0/AndroidManifest.xml:29:5-45:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/AndroidManifest.xml:25:5-29:19
@@ -95,16 +95,16 @@ MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] /home/s/sbnnk
 MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.0.aar/7064a4b5ade8aed1cff387cadb4ab4fc/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-analytics-impl:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-15.0.0.aar/7f76d34e1aeb0489fc542f3d6945851e/AndroidManifest.xml:29:5-20
 MERGED from [com.google.android.gms:play-services-analytics-impl:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-15.0.0.aar/7f76d34e1aeb0489fc542f3d6945851e/AndroidManifest.xml:29:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.0.aar/2d6d6d48ccf4715e2699210655489c1a/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.0.aar/2d6d6d48ccf4715e2699210655489c1a/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-base:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-stats:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.0.aar/5d191d26d8c1a3b9186e0d93e18d93c0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-stats:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.0.aar/5d191d26d8c1a3b9186e0d93e18d93c0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.0.aar/025ab2333fae06eec8ef7db8febb6a37/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.0.aar/025ab2333fae06eec8ef7db8febb6a37/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.0.aar/a8ee1ec02d02a86af2c417264b1e1d73/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.0.aar/a8ee1ec02d02a86af2c417264b1e1d73/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/4cf8b5053f71c5d6ddf846481c4beae3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/4cf8b5053f71c5d6ddf846481c4beae3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/4924bc32fca9e77e15dd737dce12a310/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/4924bc32fca9e77e15dd737dce12a310/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/25924a238719559d134c235c918934f8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/25924a238719559d134c235c918934f8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/24a9ea90d9d0058aca295c52c31690ce/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/24a9ea90d9d0058aca295c52c31690ce/AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.0.aar/45b76e34995215e54e93a7e250e9abc6/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.0.aar/45b76e34995215e54e93a7e250e9abc6/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4195c4f4ab6b3a77b156734b23a4838a/AndroidManifest.xml:22:5-26:19
@@ -126,45 +126,49 @@ MERGED from [com.android.support:support-compat:26.1.0] /home/s/sbnnko004/.gradl
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6f7a526be77fbec6eade80f0b932b322/AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6f7a526be77fbec6eade80f0b932b322/AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:13:9-35
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:11:9-41
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:13:9-41
 	android:roundIcon
-		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:12:9-54
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:14:9-54
 	android:icon
-		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:10:9-43
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:14:9-40
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:16:9-40
 activity#za.co.eduassistgo.edu_assisthealth.SplashScreen
-ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:15:9-21:20
+ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:17:9-23:20
 	android:name
-		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:15:19-47
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:17:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:16:13-20:29
+ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:17:17-69
+ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:17:25-66
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:19:17-77
+ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:19:27-74
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:21:27-74
 activity#za.co.eduassistgo.edu_assisthealth.Main
-ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:22:9-99
+ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:24:9-26:72
 	android:windowSoftInputMode
-		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:22:40-96
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:26:13-69
 	android:name
-		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:22:19-39
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:25:13-33
 activity#za.co.eduassistgo.edu_assisthealth.webView
-ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:23:9-45
+ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:27:9-45
 	android:name
-		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:23:19-42
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:27:19-42
 activity#za.co.eduassistgo.edu_assisthealth.contactUs
-ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:24:9-56
+ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:28:9-47
 	android:name
-		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:24:19-44
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:28:19-44
+activity#za.co.eduassistgo.edu_assisthealth.Home
+ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:29:9-51
+	android:name
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:29:19-39
 uses-sdk
 INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml
@@ -187,16 +191,16 @@ MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] /home/s/sbnnk
 MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.0.aar/7064a4b5ade8aed1cff387cadb4ab4fc/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-analytics-impl:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-15.0.0.aar/7f76d34e1aeb0489fc542f3d6945851e/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-analytics-impl:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-15.0.0.aar/7f76d34e1aeb0489fc542f3d6945851e/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.0.aar/2d6d6d48ccf4715e2699210655489c1a/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.0.aar/2d6d6d48ccf4715e2699210655489c1a/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-stats:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.0.aar/5d191d26d8c1a3b9186e0d93e18d93c0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-stats:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.0.aar/5d191d26d8c1a3b9186e0d93e18d93c0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.0.aar/025ab2333fae06eec8ef7db8febb6a37/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.0.aar/025ab2333fae06eec8ef7db8febb6a37/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.0.aar/a8ee1ec02d02a86af2c417264b1e1d73/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.0.aar/a8ee1ec02d02a86af2c417264b1e1d73/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/4cf8b5053f71c5d6ddf846481c4beae3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/4cf8b5053f71c5d6ddf846481c4beae3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/4924bc32fca9e77e15dd737dce12a310/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/4924bc32fca9e77e15dd737dce12a310/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/25924a238719559d134c235c918934f8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/25924a238719559d134c235c918934f8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/24a9ea90d9d0058aca295c52c31690ce/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/24a9ea90d9d0058aca295c52c31690ce/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.0.aar/45b76e34995215e54e93a7e250e9abc6/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.0.aar/45b76e34995215e54e93a7e250e9abc6/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4195c4f4ab6b3a77b156734b23a4838a/AndroidManifest.xml:20:5-44
@@ -290,19 +294,19 @@ ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] /home/s/sbnnko
 	android:name
 		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.0.aar/06a0e4774b1e7233a87dfc749dd19564/AndroidManifest.xml:30:13-65
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/AndroidManifest.xml:24:13-79
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.0.aar/a8ee1ec02d02a86af2c417264b1e1d73/AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/24a9ea90d9d0058aca295c52c31690ce/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.0.aar/a8ee1ec02d02a86af2c417264b1e1d73/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/24a9ea90d9d0058aca295c52c31690ce/AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:15.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.0.aar/a8ee1ec02d02a86af2c417264b1e1d73/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/24a9ea90d9d0058aca295c52c31690ce/AndroidManifest.xml:24:13-58
 meta-data#android.arch.lifecycle.VERSION
 ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6f7a526be77fbec6eade80f0b932b322/AndroidManifest.xml:25:9-27:47
 	android:value

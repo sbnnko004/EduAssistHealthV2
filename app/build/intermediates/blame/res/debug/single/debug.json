@@ -1,7 +1,7 @@
 [
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -25,7 +25,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light.xml.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable/common_google_signin_btn_icon_light.xml"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable/common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
@@ -41,11 +41,11 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -77,7 +77,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-hdpi-v4/common_full_open_on_phone.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -97,27 +97,27 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_splashscreen1.jpg.flat",
         "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/drawable/splashscreen1.jpg"
     },
     {
-        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
-    },
-    {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/color_switch_thumb_material_dark.xml.flat",
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/color/switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-v21_abc_action_bar_item_background_material.xml.flat",
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -133,7 +133,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
@@ -141,7 +141,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_normal.xml.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable/common_google_signin_btn_text_dark_normal.xml"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -164,12 +164,12 @@
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/82dc9505f94de0270b58fbda10d794ef/res/layout/notification_template_part_chronometer.xml"
-    },
-    {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/anim_abc_fade_out.xml.flat",
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/82dc9505f94de0270b58fbda10d794ef/res/layout/notification_template_part_chronometer.xml"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -196,12 +196,12 @@
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/color-v23_abc_tint_btn_checkable.xml.flat",
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -224,12 +224,12 @@
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
     },
     {
-        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
@@ -244,12 +244,12 @@
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_tick_mark_material.xml.flat",
@@ -273,7 +273,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark.xml.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable/common_google_signin_btn_text_dark.xml"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -297,7 +297,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
@@ -316,12 +316,12 @@
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
-    },
-    {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
@@ -364,12 +364,12 @@
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_tint.xml.flat",
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/color/common_google_signin_btn_tint.xml"
     },
     {
-        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_tint.xml.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/color/common_google_signin_btn_tint.xml"
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
@@ -409,7 +409,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -436,24 +436,24 @@
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_abc_vector_test.xml.flat",
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable/abc_vector_test.xml"
     },
     {
-        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -493,7 +493,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -505,7 +505,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_light.xml.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/color/common_google_signin_btn_text_light.xml"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/color/common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -589,7 +589,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_abc_btn_colored_material.xml.flat",
@@ -696,6 +696,14 @@
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/anim/abc_slide_in_top.xml"
     },
     {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_update.png.flat",
+        "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/drawable/update.png"
+    },
+    {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/menu/main.xml"
+    },
+    {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -737,7 +745,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_light.xml.flat",
@@ -797,7 +805,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-hdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
@@ -821,7 +829,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -849,7 +857,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_focused.xml.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable/common_google_signin_btn_text_light_focused.xml"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable/common_google_signin_btn_text_light_focused.xml"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -872,8 +880,12 @@
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/layout_activity_home.xml.flat",
+        "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/layout/activity_home.xml"
+    },
+    {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-mdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -909,7 +921,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/color_abc_tint_seek_thumb.xml.flat",
@@ -917,7 +929,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_dark.xml.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/color/common_google_signin_btn_text_dark.xml"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -1013,7 +1025,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/color_abc_tint_spinner.xml.flat",
@@ -1041,7 +1053,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_disabled.xml.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable/common_google_signin_btn_text_disabled.xml"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable/common_google_signin_btn_text_disabled.xml"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/anim_abc_slide_out_top.xml.flat",
@@ -1109,7 +1121,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -1145,7 +1157,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -1173,7 +1185,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_normal.xml.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable/common_google_signin_btn_text_light_normal.xml"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable/common_google_signin_btn_text_light_normal.xml"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_small_material.xml.flat",
@@ -1205,7 +1217,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -1218,6 +1230,10 @@
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_indicator_material.xml.flat",
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_healthwellbeing1.jpg.flat",
+        "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/drawable/healthwellbeing1.jpg"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
@@ -1241,7 +1257,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -1341,7 +1357,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -1417,7 +1433,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -1472,6 +1488,10 @@
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-hdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_home.png.flat",
+        "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/drawable/home.png"
+    },
+    {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/color_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/color/abc_btn_colored_borderless_text_material.xml"
     },
@@ -1517,7 +1537,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable/common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
@@ -1525,7 +1545,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_disabled.xml.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable/common_google_signin_btn_icon_disabled.xml"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable/common_google_signin_btn_icon_disabled.xml"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
@@ -1537,7 +1557,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -1549,7 +1569,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark.xml.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable/common_google_signin_btn_icon_dark.xml"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/layout_notification_action_tombstone.xml.flat",
@@ -1565,7 +1585,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable/common_google_signin_btn_icon_light_normal.xml"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -1657,7 +1677,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_abc_ic_go_search_api_material.xml.flat",
@@ -1677,7 +1697,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable/common_google_signin_btn_icon_light_focused.xml"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_borderless_text_material.xml.flat",
@@ -1797,7 +1817,7 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/layout_abc_action_menu_item_layout.xml.flat",
@@ -1833,10 +1853,10 @@
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light.xml.flat",
-        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/drawable/common_google_signin_btn_text_light.xml"
+        "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable/common_google_signin_btn_text_light.xml"
     }
 ]

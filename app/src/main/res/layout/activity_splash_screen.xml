@@ -5,22 +5,22 @@
 	android:layout_width="match_parent" 
 	android:layout_height="match_parent"
 	>
-    <ImageView 
-    	android:id="@+id/imgLogo" 
-    	android:layout_width="match_parent" 
-    	android:layout_height="match_parent" 
-    	android:src="@drawable/splashscreen1" 
-    	android:scaleType="fitXY" 
-    	android:layout_centerInParent="true" 
-    	/>
-    <TextView 
-    	android:textSize="15dp" 
-    	android:textColor="#d3d3d3" 
+    <ImageView
+    	android:id="@+id/imgLogo"
     	android:layout_width="match_parent"
-    	android:layout_height="wrap_content" 
-    	android:layout_marginBottom="10dp"
-    	android:text="Healping you adjust to university life" 
-    	android:layout_alignParentBottom="true"
-		android:layout_centerHorizontal="true"
+    	android:layout_height="match_parent"
+    	android:src="@drawable/splashscreen1"
+    	android:scaleType="fitXY"
+    	android:layout_centerInParent="true"
     	/>
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:layout_centerHorizontal="true"
+		android:layout_marginBottom="10dp"
+		android:text="Helping you adjust to university life"
+		android:textAppearance="@style/TextAppearance.AppCompat.Button"
+		android:visibility="visible" />
 </RelativeLayout>

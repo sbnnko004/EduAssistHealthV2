@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/rate_us"
+        android:orderInCategory="100"
+        android:title="Rate Us"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/share"
+        android:orderInCategory="100"
+        android:title="Share the app"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/feedback"
+        android:orderInCategory="100"
+        android:title="Feedback"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/contact_us"
+        android:orderInCategory="100"
+        android:title="Contact Us"
+        app:showAsAction="never"/>
+
+
+</menu>

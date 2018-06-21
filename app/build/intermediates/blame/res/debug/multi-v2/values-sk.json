@@ -4,7 +4,7 @@
             "outputFile": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml",
             "map": [
                 {
-                    "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/4f516a1ba0382e8ef58af28e605fb387/res/values-sk/values.xml",
+                    "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/values-sk/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -18,6 +18,23 @@
                         "startOffsets": "2073,2181,2373,2499,2611,2826,2956,3099,3428,3656,3769,3970,4102,4324,4518,4616,4713",
                         "endColumns": "107,191,125,111,214,129,142,130,227,112,200,131,221,193,97,96,115",
                         "endOffsets": "2176,2368,2494,2606,2821,2951,3094,3225,3651,3764,3965,4097,4319,4513,4611,4708,4824"
+                    }
+                },
+                {
+                    "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/24a9ea90d9d0058aca295c52c31690ce/res/values-sk/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "197",
+                        "endOffsets": "444"
+                    },
+                    "to": {
+                        "startLines": "29",
+                        "startColumns": "4",
+                        "startOffsets": "3230",
+                        "endColumns": "197",
+                        "endOffsets": "3423"
                     }
                 },
                 {
@@ -35,23 +52,6 @@
                         "startOffsets": "105,212,320,443,543,654,740,848,966,1047,1128,1212,1317,1426,1525,1631,1742,1851,1975,5438,5526",
                         "endColumns": "106,107,122,99,110,85,107,117,80,80,83,104,108,98,105,110,108,123,97,87,100",
                         "endOffsets": "207,315,438,538,649,735,843,961,1042,1123,1207,1312,1421,1520,1626,1737,1846,1970,2068,5521,5622"
-                    }
-                },
-                {
-                    "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.0.aar/a8ee1ec02d02a86af2c417264b1e1d73/res/values-sk/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "197",
-                        "endOffsets": "444"
-                    },
-                    "to": {
-                        "startLines": "29",
-                        "startColumns": "4",
-                        "startOffsets": "3230",
-                        "endColumns": "197",
-                        "endOffsets": "3423"
                     }
                 },
                 {
