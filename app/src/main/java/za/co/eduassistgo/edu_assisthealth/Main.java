@@ -1,5 +1,24 @@
 package za.co.eduassistgo.edu_assisthealth;
 
+import android.support.design.widget.TabItem;
+import android.support.design.widget.TabLayout;
+import android.support.design.widget.FloatingActionButton;
+import android.support.design.widget.Snackbar;
+import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
+
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.FragmentPagerAdapter;
+import android.support.v4.view.ViewPager;
+import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.view.View;
+import android.view.ViewGroup;
+
+import android.widget.TextView;
 import android.content.DialogInterface;
 import android.content.DialogInterface.OnClickListener;
 import android.content.Intent;
@@ -25,6 +44,7 @@ import org.json.JSONObject;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Vector;
 
@@ -70,10 +90,25 @@ import java.util.List;
 import java.util.Vector;
 import org.json.JSONObject;
 
-
 public class Main extends AppCompatActivity {
+    public static Main main;
+    private SectionsPagerAdapter mSectionsPagerAdapter;
+    private ViewPager mViewPager;
     SharedPreferences sharedPreferences;
     public AdView adView;
+    TabItem tabHome;
+    TabItem tabHealth;
+    TabItem tabWellbeing;
+    TabItem tabParents;
+    TabItem tabChallenges;
+    TabItem tabHealthcare;
+    TabItem tabMentalIllness;
+    TabItem tabContest;
+    TabItem tabSexualViolence;
+    TabItem tabHelp;
+    TabItem tabEmergency;
+
+
 
     class Close implements OnClickListener {
         Close() {
@@ -151,66 +186,49 @@ public class Main extends AppCompatActivity {
         }
     }
 
-
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        main = this;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);
+        // Create the adapter that will return a fragment for each of the three
+        // primary sections of the activity.
+        mSectionsPagerAdapter = new SectionsPagerAdapter(getSupportFragmentManager());
+
+        // Set up the ViewPager with the sections adapter.
+        mViewPager = (ViewPager) findViewById(R.id.container);
+        mViewPager.setAdapter(mSectionsPagerAdapter);
+
+        TabLayout tabLayout = (TabLayout) findViewById(R.id.tabs);
+
+        mViewPager.addOnPageChangeListener(new TabLayout.TabLayoutOnPageChangeListener(tabLayout));
+        tabLayout.addOnTabSelectedListener(new TabLayout.ViewPagerOnTabSelectedListener(mViewPager));
+        /*
+        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+                        .setAction("Action", null).show();
+            }
+        });*/
         RelativeLayout adViewContainer = (RelativeLayout) findViewById(R.id.adViewContainer);
         adView = new AdView(this);
         adView.setAdUnitId("ca-app-pub-9189472653918970/7167825305");
-        adView.setAdSize(AdSize.BANNER);
+        adView.setAdSize(AdSize.SMART_BANNER);
         AdRequest adRequest = new AdRequest.Builder().build();
         adViewContainer.addView(adView);
         adView.loadAd(adRequest);
-        /*List<Fragment> fragments = new Vector();
-
-        fragments.add(Fragment.instantiate(this, Home.class.getName()));
-        fragments.add(Fragment.instantiate(this, Wellness.class.getName()));
-        fragments.add(Fragment.instantiate(this, Parents.class.getName()));
-        fragments.add(Fragment.instantiate(this, Challenges.class.getName()));
-        fragments.add(Fragment.instantiate(this, Healthcare.class.getName()));
-        fragments.add(Fragment.instantiate(this, MentalIllness.class.getName()));
-        fragments.add(Fragment.instantiate(this, Consent.class.getName()));
-        fragments.add(Fragment.instantiate(this, SexualViolence.class.getName()));
-        fragments.add(Fragment.instantiate(this, Help.class.getName()));
-        fragments.add(Fragment.instantiate(this, Emergency.class.getName()));
-
-        final ViewPager pager = (ViewPager) findViewById(R.id.viewpager);
-        pager.setAdapter(new PageAdaptor(getSupportFragmentManager(), fragments));
-        final ActionBar actionBar = getSupportActionBar();
-        actionBar.setNavigationMode(2);
-        TabListener tabListener = new TabListener() {
-            public void onTabSelected(Tab tab, FragmentTransaction ft) {
-                pager.setCurrentItem(tab.getPosition());
-            }
-
-            public void onTabUnselected(Tab tab, FragmentTransaction ft) {
-            }
-
-            public void onTabReselected(Tab tab, FragmentTransaction ft) {
-            }
-        };
-        actionBar.addTab(actionBar.newTab().setText((CharSequence) " HOME").setIcon((int) R.drawable.home).setTabListener(tabListener));
-        actionBar.addTab(actionBar.newTab().setText((CharSequence) " PDF").setIcon((int) R.drawable.pdf).setTabListener(tabListener));
-        actionBar.addTab(actionBar.newTab().setText((CharSequence) " Videos").setIcon((int) R.drawable.video).setTabListener(tabListener));
-        actionBar.addTab(actionBar.newTab().setText((CharSequence) "  QUIZ").setIcon((int) R.drawable.quiz_icon).setTabListener(tabListener));
-        actionBar.addTab(actionBar.newTab().setText((CharSequence) " Ask Us").setIcon((int) R.drawable.ques).setTabListener(tabListener));
-
-        pager.addOnPageChangeListener(new SimpleOnPageChangeListener() {
-            public void onPageSelected(int position) {
-                actionBar.setSelectedNavigationItem(position);
-                actionBar.setElevation(0.5f);
-            }
-        });*/
-
 
     }
 
+
+    @Override
     public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.main, menu);
         return true;
     }
@@ -280,4 +298,92 @@ public class Main extends AppCompatActivity {
     }
 
 
+
+    /**
+     * A placeholder fragment containing a simple view.
+     */
+    public static class PlaceholderFragment extends Fragment {
+        /**
+         * The fragment argument representing the section number for this
+         * fragment.
+         */
+
+        private static final String ARG_SECTION_NUMBER = "section_number";
+
+        public PlaceholderFragment() {
+        }
+
+        /**
+         * Returns a new instance of this fragment for the given section
+         * number.
+         */
+        public static PlaceholderFragment newInstance(int sectionNumber) {
+            PlaceholderFragment fragment = new PlaceholderFragment();
+            Bundle args = new Bundle();
+            args.putInt(ARG_SECTION_NUMBER, sectionNumber);
+            fragment.setArguments(args);
+            return fragment;
+        }
+
+        @Override
+        public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                                 Bundle savedInstanceState) {
+            View rootView = inflater.inflate(R.layout.tab01_home, container, false);
+            //TextView textView = (TextView) rootView.findViewById(R.id.section_label);
+            //textView.setText(getString(R.string.section_format, getArguments().getInt(ARG_SECTION_NUMBER)));
+            return rootView;
+        }
+
+
+    }
+
+    /**
+     * A {@link FragmentPagerAdapter} that returns a fragment corresponding to
+     * one of the sections/tabs/pages.
+     */
+    public class SectionsPagerAdapter extends FragmentPagerAdapter {
+
+        public SectionsPagerAdapter(FragmentManager fm) {
+            super(fm);
+        }
+
+        @Override
+        public Fragment getItem(int position) {
+            // getItem is called to instantiate the fragment for the given page.
+            // Return a PlaceholderFragment (defined as a static inner class below).
+            //return PlaceholderFragment.newInstance(position + 1);
+            switch (position){
+                case 0:
+                    return new Tab01Home();
+                case 1:
+                    return new Tab02Health();
+                case 2:
+                    return new Tab03Wellbeing();
+                case 3:
+                    return new Tab04Parents();
+                case 4:
+                    return new Tab05Challenges();
+                case 5:
+                    return new Tab06Healthcare();
+                case 6:
+                    return new Tab07MentalIllness();
+                case 7:
+                    return new Tab08Contest();
+                case 8:
+                    return new Tab09SexualViolence();
+                case 9:
+                    return new Tab10Help();
+                case 10:
+                    return new Tab11Emergency();
+                default:
+                    return null;
+            }
+        }
+
+        @Override
+        public int getCount() {
+            // Show 3 total pages.
+            return 11;
+        }
+    }
 }

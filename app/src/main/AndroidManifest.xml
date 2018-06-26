@@ -23,10 +23,10 @@
         </activity>
         <activity
             android:name=".Main"
+            android:label="@string/title_activity_main"
+            android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="adjustResize|adjustNothing" />
-        <activity android:name=".webView" />
         <activity android:name=".contactUs" />
-        <activity android:name=".Home"></activity>
     </application>
 
 </manifest>

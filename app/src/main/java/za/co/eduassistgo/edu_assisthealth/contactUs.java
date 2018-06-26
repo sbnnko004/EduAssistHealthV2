@@ -20,7 +20,8 @@ public class contactUs extends AppCompatActivity
     protected void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_contact_us);        //NetworkInfo activeNetwork = ((ConnectivityManager) getSystemService("connectivity")).getActiveNetworkInfo();
+        setContentView(R.layout.activity_contact_us);
+        //NetworkInfo activeNetwork = ((ConnectivityManager) getSystemService("connectivity")).getActiveNetworkInfo();
         //ActionBar bar = getActionBar();
         //bar.setBackgroundDrawable(new ColorDrawable(Color.parseColor("#2F4F4F")));
         TextView name = (TextView) findViewById(R.id.name);
@@ -46,7 +47,7 @@ public class contactUs extends AppCompatActivity
         {
             e.printStackTrace();
         }
-        ver.setText("Learning Bootstrap v" + pInfo.versionName);
+        ver.setText("EduAssistGo Health V" + pInfo.versionName);
         name.setText("Nkosingiphile Sibandze :\n +26879857364");
         email.setText("nkosingphiless@gmail.com");
         fb.setText("https://www.facebook.com/nkosingiphiless");
@@ -90,7 +91,6 @@ public class contactUs extends AppCompatActivity
         else if(v.getId()==R.id.insta)
         {
             contactUs.this.startActivity(new Intent("android.intent.action.VIEW", Uri.parse("https://www.instagram.com/n_sibandze")));
-
         }
     }
 }
