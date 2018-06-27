@@ -37,6 +37,8 @@ import android.view.MenuItem;
 import android.widget.EditText;
 import android.widget.LinearLayout.LayoutParams;
 import android.widget.RelativeLayout;
+
+import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdSize;
 import com.google.android.gms.ads.AdView;
@@ -80,6 +82,8 @@ import android.widget.EditText;
 import android.widget.LinearLayout.LayoutParams;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
+import android.widget.Toast;
+
 import com.google.android.gms.analytics.HitBuilders.EventBuilder;
 import com.google.android.gms.analytics.HitBuilders.ScreenViewBuilder;
 import com.google.android.gms.analytics.Tracker;
@@ -217,14 +221,76 @@ public class Main extends AppCompatActivity {
         });*/
         RelativeLayout adViewContainer = (RelativeLayout) findViewById(R.id.adViewContainer);
         adView = new AdView(this);
+        //adView.setAdUnitId("ca-app-pub-3940256099942544/6300978111");
         adView.setAdUnitId("ca-app-pub-9189472653918970/7167825305");
         adView.setAdSize(AdSize.SMART_BANNER);
         AdRequest adRequest = new AdRequest.Builder().build();
+        adView.setVisibility(View.GONE);
+        adView.setAdListener(new AdListener() {
+            private void showToast(String message) {
+                Toast.makeText(getApplicationContext(), message, Toast.LENGTH_SHORT).show();
+            }
+
+            @Override
+            public void onAdLoaded() {
+                //showToast("Ad loaded.");
+                if (adView.getVisibility() == View.GONE) {
+                    adView.setVisibility(View.VISIBLE);
+                }
+            }
+
+            @Override
+            public void onAdFailedToLoad(int errorCode) {
+                //showToast(String.format("Ad failed to load with error code %d.", errorCode));
+                adView.loadAd(new AdRequest.Builder().build());
+            }
+
+            @Override
+            public void onAdOpened() {
+                //showToast("Ad opened.");
+            }
+
+            @Override
+            public void onAdClosed() {
+                //showToast("Ad closed.");
+                //adView.destroy();
+                //adView.loadAd(new AdRequest.Builder().build());
+            }
+
+            @Override
+            public void onAdLeftApplication() {
+                //showToast("Ad left application.");
+            }
+        });
         adViewContainer.addView(adView);
         adView.loadAd(adRequest);
 
     }
 
+
+    @Override
+    public void onResume() {
+        super.onResume();
+
+        // Resume the AdView.
+        adView.resume();
+    }
+
+    @Override
+    public void onPause() {
+        // Pause the AdView.
+        adView.pause();
+
+        super.onPause();
+    }
+
+    @Override
+    public void onDestroy() {
+        // Destroy the AdView.
+        adView.destroy();
+
+        super.onDestroy();
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

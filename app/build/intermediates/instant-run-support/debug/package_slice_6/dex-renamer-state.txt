@@ -1,0 +1,4 @@
+#Wed Jun 27 19:00:00 SAST 2018
+base.0=/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/transforms/dexMerger/debug/45
+path.0=classes.dex
+renamed.0=classes.dex
