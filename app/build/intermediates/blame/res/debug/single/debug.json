@@ -108,6 +108,10 @@
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_stethoscope_200px.jpg.flat",
+        "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/drawable/stethoscope_200px.jpg"
+    },
+    {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
@@ -436,12 +440,20 @@
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_home_gif.gif.flat",
+        "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/drawable/home_gif.gif"
+    },
+    {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_phone.png.flat",
         "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/drawable/phone.png"
+    },
+    {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_help_and_support_200.jpg.flat",
+        "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/drawable/help_and_support_200.jpg"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
@@ -502,6 +514,10 @@
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_top_tips_200_2.jpg.flat",
+        "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/drawable/top_tips_200_2.jpg"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
@@ -1112,6 +1128,10 @@
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_common_challenges_200_2.jpg.flat",
+        "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/drawable/common_challenges_200_2.jpg"
+    },
+    {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_focused.xml.flat",
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8b50b346551cf6087293f9d3514bdc86/res/drawable/common_google_signin_btn_text_light_focused.xml"
     },
@@ -1370,6 +1390,10 @@
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_sexual_assault_200_2.jpg.flat",
+        "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/drawable/sexual_assault_200_2.jpg"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -1728,6 +1752,10 @@
         "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_mental_illness_200.jpg.flat",
+        "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/drawable/mental_illness_200.jpg"
+    },
+    {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
     },
@@ -1856,6 +1884,10 @@
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
     {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_parents_3.jpg.flat",
+        "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/drawable/parents_3.jpg"
+    },
+    {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
     },
@@ -1890,6 +1922,10 @@
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_design_ic_visibility.png.flat",
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6559885338e62f2974425ec712473639/res/drawable-mdpi-v4/design_ic_visibility.png"
+    },
+    {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_workshops_200_2.jpg.flat",
+        "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/drawable/workshops_200_2.jpg"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/color_abc_tint_edittext.xml.flat",
@@ -1960,6 +1996,10 @@
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_parents_200.jpg.flat",
+        "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/drawable/parents_200.jpg"
+    },
+    {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_material.xml.flat",
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/layout/abc_alert_dialog_material.xml"
     },
@@ -2018,6 +2058,10 @@
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_submit.png.flat",
         "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/drawable/submit.png"
+    },
+    {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_health_wellbeing_1.jpg.flat",
+        "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/drawable/health_wellbeing_1.jpg"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
@@ -2118,6 +2162,10 @@
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_home_white.gif.flat",
+        "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/drawable/home_white.gif"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-v21_avd_show_password.xml.flat",

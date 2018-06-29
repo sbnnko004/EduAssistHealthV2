@@ -24,6 +24,7 @@ public class Tab01Home extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
+
         View rootView = inflater.inflate(R.layout.tab01_home, container, false);
 
         return rootView;
