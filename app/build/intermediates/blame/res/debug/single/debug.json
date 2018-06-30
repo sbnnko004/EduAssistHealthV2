@@ -1040,6 +1040,10 @@
         "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/layout/toolbar.xml"
     },
     {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_common_challenges_3.jpg.flat",
+        "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/drawable/common_challenges_3.jpg"
+    },
+    {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
@@ -1306,6 +1310,10 @@
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_in.xml.flat",
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6559885338e62f2974425ec712473639/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_sleep_well.jpg.flat",
+        "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/drawable/sleep_well.jpg"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -2106,6 +2114,10 @@
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable_wellbeing.jpg.flat",
+        "source": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/res/drawable/wellbeing.jpg"
     },
     {
         "merged": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
