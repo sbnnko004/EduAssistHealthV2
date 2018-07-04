@@ -4,7 +4,7 @@
             "outputFile": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/values-land/values-land.xml",
+                    "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/887cb4c9c703d91d725d66f06a069a79/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6559885338e62f2974425ec712473639/res/values-land/values-land.xml",
+                    "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/73f256c0e1ea613140b0a547a0e6b6ee/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

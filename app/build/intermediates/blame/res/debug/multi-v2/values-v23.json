@@ -4,7 +4,7 @@
             "outputFile": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/values-v23/values-v23.xml",
+                    "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/887cb4c9c703d91d725d66f06a069a79/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/4b0c652fae22eae4689d11d54f0080b1/res/values-v23/values-v23.xml",
+                    "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/1dedbef093fd6c5d1d5a7f2918545cbf/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

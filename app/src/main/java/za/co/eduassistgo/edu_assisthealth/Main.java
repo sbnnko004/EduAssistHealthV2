@@ -221,8 +221,8 @@ public class Main extends AppCompatActivity {
         });*/
         RelativeLayout adViewContainer = (RelativeLayout) findViewById(R.id.adViewContainer);
         adView = new AdView(this);
-        adView.setAdUnitId("ca-app-pub-3940256099942544/6300978111");
-        //adView.setAdUnitId("ca-app-pub-9189472653918970/7167825305");
+        //adView.setAdUnitId("ca-app-pub-3940256099942544/6300978111");
+        adView.setAdUnitId("ca-app-pub-9189472653918970/7167825305");
         adView.setAdSize(AdSize.SMART_BANNER);
         AdRequest adRequest = new AdRequest.Builder().build();
         adView.setVisibility(View.GONE);

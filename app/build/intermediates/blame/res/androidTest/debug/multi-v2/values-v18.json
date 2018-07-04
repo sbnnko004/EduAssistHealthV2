@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/887cb4c9c703d91d725d66f06a069a79/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -6,7 +6,7 @@
 
     <uses-sdk
         android:minSdkVersion="21"
-        android:targetSdkVersion="26" />
+        android:targetSdkVersion="27" />
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -50,11 +50,7 @@
             android:name="com.google.android.gms.analytics.AnalyticsJobService"
             android:enabled="true"
             android:exported="false"
-            android:permission="android.permission.BIND_JOB_SERVICE" />
-
-        <meta-data
-            android:name="android.support.VERSION"
-            android:value="26.1.0" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+            android:permission="android.permission.BIND_JOB_SERVICE" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
@@ -69,8 +65,8 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
         <meta-data
-            android:name="android.arch.lifecycle.VERSION"
-            android:value="27.0.0-SNAPSHOT" />
+            android:name="android.support.VERSION"
+            android:value="26.1.0" />
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"

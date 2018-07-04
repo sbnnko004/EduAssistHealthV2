@@ -4,7 +4,7 @@
             "outputFile": "/home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
             "map": [
                 {
-                    "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/aa9b2c324fafdedb72ccfd7b1f5bd634/res/values-v14/values-v14.xml",
+                    "source": "/home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/bdef3b309ba90049536f9b0952bba942/res/values-v14/values-v14.xml",
                     "from": {
                         "startLines": "2,7,8,9,15",
                         "startColumns": "4,4,4,4,4",
