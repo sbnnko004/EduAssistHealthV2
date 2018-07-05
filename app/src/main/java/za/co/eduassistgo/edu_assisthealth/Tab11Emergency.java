@@ -35,7 +35,7 @@ public class Tab11Emergency extends Fragment {
         WebViewWithCSS.getSettings().setAllowFileAccessFromFileURLs(true);
         WebViewWithCSS.getSettings().setJavaScriptCanOpenWindowsAutomatically(true);
 
-        WebViewWithCSS.setWebChromeClient(new WebChromeClient());
+        //WebViewWithCSS.setWebChromeClient(new WebChromeClient());
         WebViewWithCSS.loadUrl("file:///android_asset/webViews/emergency.html");
         //WebViewWithCSS.loadUrl(url);
         if (Build.VERSION.SDK_INT >= 19) {

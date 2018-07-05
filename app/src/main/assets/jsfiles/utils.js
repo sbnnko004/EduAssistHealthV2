@@ -220,12 +220,12 @@ jQuery(document).ready(function($) {
 
 	//Sortable tables
 	if ( $("table.sortable").length > 0){
-		$.getScript("/media/global/scripts/jquery.tablesorter.metadata.min.js",function(){
+		$.getScript("file:///android_asset/jsfiles/jquery.tablesorter.metadata.min.js",function(){
 			$("table.sortable").tablesorter();
 		});
 	}
 	if ( $("table.sortable-zebra").length > 0){
-		$.getScript("/media/global/scripts/jquery.tablesorter.metadata.min.js",function(){
+		$.getScript("file:///android_asset/jsfiles/jquery.tablesorter.metadata.min.js",function(){
 			$("table.sortable-zebra").tablesorter({
 				widgets: ['zebra']
 			});

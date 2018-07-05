@@ -22,5 +22,6 @@
 		android:layout_marginBottom="10dp"
 		android:text="Helping you adjust to university life"
 		android:textAppearance="@style/TextAppearance.AppCompat.Button"
+		android:textColor="#f0ffff"
 		android:visibility="visible" />
 </RelativeLayout>

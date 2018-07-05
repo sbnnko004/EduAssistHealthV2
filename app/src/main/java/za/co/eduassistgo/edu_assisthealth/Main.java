@@ -47,7 +47,9 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
+import java.util.Random;
 import java.util.Vector;
 
 import android.annotation.TargetApi;
@@ -84,6 +86,7 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.android.gms.ads.MobileAds;
 import com.google.android.gms.analytics.HitBuilders.EventBuilder;
 import com.google.android.gms.analytics.HitBuilders.ScreenViewBuilder;
 import com.google.android.gms.analytics.Tracker;
@@ -99,6 +102,7 @@ public class Main extends AppCompatActivity {
     private SectionsPagerAdapter mSectionsPagerAdapter;
     private ViewPager mViewPager;
     SharedPreferences sharedPreferences;
+    List<String> adIDs;
     public AdView adView;
     TabItem tabHome;
     TabItem tabHealth;
@@ -222,10 +226,12 @@ public class Main extends AppCompatActivity {
         RelativeLayout adViewContainer = (RelativeLayout) findViewById(R.id.adViewContainer);
         adView = new AdView(this);
         //adView.setAdUnitId("ca-app-pub-3940256099942544/6300978111");
-        adView.setAdUnitId("ca-app-pub-9189472653918970/7167825305");
+        MobileAds.initialize(this, "ca-app-pub-9189472653918970~5767181948");
+        adIDs = Arrays.asList("ca-app-pub-9189472653918970/7167825305", "ca-app-pub-9189472653918970/2699356430", "ca-app-pub-9189472653918970/4133380427");
+        adView.setAdUnitId(adIDs.get((new Random()).nextInt(3)));
         adView.setAdSize(AdSize.SMART_BANNER);
         AdRequest adRequest = new AdRequest.Builder().build();
-        adView.setVisibility(View.GONE);
+        //adView.setVisibility(View.GONE);
         adView.setAdListener(new AdListener() {
             private void showToast(String message) {
                 Toast.makeText(getApplicationContext(), message, Toast.LENGTH_SHORT).show();
@@ -234,14 +240,14 @@ public class Main extends AppCompatActivity {
             @Override
             public void onAdLoaded() {
                 //showToast("Ad loaded.");
-                if (adView.getVisibility() == View.GONE) {
-                    adView.setVisibility(View.VISIBLE);
-                }
+                //if (adView.getVisibility() == View.GONE) {
+                  //  adView.setVisibility(View.VISIBLE);
+                //}
             }
 
             @Override
             public void onAdFailedToLoad(int errorCode) {
-                //showToast(String.format("Ad failed to load with error code %d.", errorCode)
+
             }
 
             @Override
@@ -259,8 +265,8 @@ public class Main extends AppCompatActivity {
             @Override
             public void onAdLeftApplication() {
                 //showToast("Ad left application.");
-                adView.destroy();
-                adView.loadAd(new AdRequest.Builder().build());
+                //adView.destroy();
+                //adView.loadAd(new AdRequest.Builder().build());
             }
         });
         adViewContainer.addView(adView);
