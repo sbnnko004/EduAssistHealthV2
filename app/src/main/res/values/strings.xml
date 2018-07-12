@@ -12,4 +12,5 @@
     <string name="tab_text_09">Sexual Violence</string>
     <string name="tab_text_11">Emergency</string>
     <string name="tab_text_10">Help</string>
+    <string name="title_activity_web">webActivity</string>
 </resources>

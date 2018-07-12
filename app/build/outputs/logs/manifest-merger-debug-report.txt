@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-32:12
-INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-32:12
-INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-32:12
-INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-32:12
+ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-36:12
 MERGED from [com.google.android.gms:play-services-ads:15.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/a587767b92307eb20a494bb0fbf8efad/AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.gms:play-services-analytics:16.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/8feac342ca5a46deeea83dee155c9a9a/AndroidManifest.xml:17:1-47:12
 MERGED from [com.android.support:design:27.1.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/73f256c0e1ea613140b0a547a0e6b6ee/AndroidManifest.xml:17:1-22:12
@@ -36,20 +36,20 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/s/sbnnko004/.grad
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/33fd3294f238ec26e18582411c37d6d3/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ac2253ec864a0062b0534fb307e75317/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7e5384b7c228df249803f9617df32a7b/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-32:12
-INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-32:12
-INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-36:12
 	package
 		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:3:5-49
 		INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml
 		INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml
-		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-32:12
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-36:12
 		INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml
-		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-32:12
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:1-36:12
 		INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:2:11-69
@@ -86,7 +86,7 @@ ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/
 	android:name
 		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:8:22-79
 application
-ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:10:5-30:19
+ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:10:5-34:19
 MERGED from [com.google.android.gms:play-services-analytics:16.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/8feac342ca5a46deeea83dee155c9a9a/AndroidManifest.xml:29:5-45:19
 MERGED from [com.google.android.gms:play-services-analytics:16.0.1] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.1.aar/8feac342ca5a46deeea83dee155c9a9a/AndroidManifest.xml:29:5-45:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/s/sbnnko004/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/b365a0df27538ebe7e2e33e1149e8cc4/AndroidManifest.xml:9:5-20
@@ -155,6 +155,14 @@ activity#za.co.eduassistgo.edu_assisthealth.contactUs
 ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:29:9-47
 	android:name
 		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:29:19-44
+activity#za.co.eduassistgo.edu_assisthealth.webActivity
+ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:30:9-33:68
+	android:label
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:32:13-55
+	android:theme
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml:31:13-40
 uses-sdk
 INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/s/sbnnko004/AndroidStudioProjects/EduAssistHealth/app/src/main/AndroidManifest.xml

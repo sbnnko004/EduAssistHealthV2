@@ -35,6 +35,10 @@
             android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="adjustResize|adjustNothing" />
         <activity android:name="za.co.eduassistgo.edu_assisthealth.contactUs" />
+        <activity
+            android:name="za.co.eduassistgo.edu_assisthealth.webActivity"
+            android:label="@string/title_activity_web"
+            android:theme="@style/AppTheme.NoActionBar" />
 
         <receiver
             android:name="com.google.android.gms.analytics.AnalyticsReceiver"

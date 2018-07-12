@@ -27,6 +27,10 @@
             android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="adjustResize|adjustNothing" />
         <activity android:name=".contactUs" />
+        <activity
+            android:name=".webActivity"
+            android:label="@string/title_activity_web"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

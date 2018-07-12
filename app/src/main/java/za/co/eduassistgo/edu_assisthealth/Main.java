@@ -18,6 +18,8 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
+import android.webkit.WebView;
+import android.webkit.WebViewClient;
 import android.widget.TextView;
 import android.content.DialogInterface;
 import android.content.DialogInterface.OnClickListener;
@@ -214,24 +216,14 @@ public class Main extends AppCompatActivity {
 
         mViewPager.addOnPageChangeListener(new TabLayout.TabLayoutOnPageChangeListener(tabLayout));
         tabLayout.addOnTabSelectedListener(new TabLayout.ViewPagerOnTabSelectedListener(mViewPager));
-        /*
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-            }
-        });*/
+
         RelativeLayout adViewContainer = (RelativeLayout) findViewById(R.id.adViewContainer);
         adView = new AdView(this);
-        //adView.setAdUnitId("ca-app-pub-3940256099942544/6300978111");
         MobileAds.initialize(this, "ca-app-pub-9189472653918970~5767181948");
         adIDs = Arrays.asList("ca-app-pub-9189472653918970/7167825305", "ca-app-pub-9189472653918970/2699356430", "ca-app-pub-9189472653918970/4133380427");
         adView.setAdUnitId(adIDs.get((new Random()).nextInt(3)));
         adView.setAdSize(AdSize.SMART_BANNER);
         AdRequest adRequest = new AdRequest.Builder().build();
-        //adView.setVisibility(View.GONE);
         adView.setAdListener(new AdListener() {
             private void showToast(String message) {
                 Toast.makeText(getApplicationContext(), message, Toast.LENGTH_SHORT).show();
@@ -375,21 +367,15 @@ public class Main extends AppCompatActivity {
     /**
      * A placeholder fragment containing a simple view.
      */
-    public static class PlaceholderFragment extends Fragment {
-        /**
-         * The fragment argument representing the section number for this
-         * fragment.
-         */
+    /*public static class PlaceholderFragment extends Fragment {
+
 
         private static final String ARG_SECTION_NUMBER = "section_number";
 
         public PlaceholderFragment() {
         }
 
-        /**
-         * Returns a new instance of this fragment for the given section
-         * number.
-         */
+
         public static PlaceholderFragment newInstance(int sectionNumber) {
             PlaceholderFragment fragment = new PlaceholderFragment();
             Bundle args = new Bundle();
@@ -402,13 +388,11 @@ public class Main extends AppCompatActivity {
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
                                  Bundle savedInstanceState) {
             View rootView = inflater.inflate(R.layout.tab01_home, container, false);
-            //TextView textView = (TextView) rootView.findViewById(R.id.section_label);
-            //textView.setText(getString(R.string.section_format, getArguments().getInt(ARG_SECTION_NUMBER)));
             return rootView;
         }
 
 
-    }
+    }*/
 
     /**
      * A {@link FragmentPagerAdapter} that returns a fragment corresponding to
@@ -425,32 +409,18 @@ public class Main extends AppCompatActivity {
             // getItem is called to instantiate the fragment for the given page.
             // Return a PlaceholderFragment (defined as a static inner class below).
             //return PlaceholderFragment.newInstance(position + 1);
-            switch (position){
-                case 0:
-                    return new Tab01Home();
-                case 1:
-                    return new Tab02Health();
-                case 2:
-                    return new Tab03Wellbeing();
-                case 3:
-                    return new Tab04Parents();
-                case 4:
-                    return new Tab05Challenges();
-                case 5:
-                    return new Tab06Healthcare();
-                case 6:
-                    return new Tab07MentalIllness();
-                case 7:
-                    return new Tab08Contest();
-                case 8:
-                    return new Tab09SexualViolence();
-                case 9:
-                    return new Tab10Help();
-                case 10:
-                    return new Tab11Emergency();
-                default:
-                    return null;
+            TabElement tab;
+            if(position>-1&&position<11)
+            {
+                tab = new TabElement();
+                tab.setNumber(position);
+                return tab;
             }
+            else
+            {
+                return null;
+            }
+
         }
 
         @Override
@@ -459,4 +429,6 @@ public class Main extends AppCompatActivity {
             return 11;
         }
     }
+
+
 }
