@@ -90,8 +90,8 @@ public class webActivity extends AppCompatActivity {
         }
 
 
-        RelativeLayout adViewContainer = (RelativeLayout) findViewById(R.id.adViewContainer2);
-        adView = new AdView(this);
+        adView = (AdView) findViewById(R.id.adViewContainer2);
+        //adView = new AdView(this);
         adView.setAdUnitId(Main.main.adIDs.get((new Random()).nextInt(3)));
         adView.setAdSize(AdSize.SMART_BANNER);
         AdRequest adRequest = new AdRequest.Builder().build();
@@ -132,7 +132,7 @@ public class webActivity extends AppCompatActivity {
                 //adView.loadAd(new AdRequest.Builder().build());
             }
         });
-        adViewContainer.addView(adView);
+        //adViewContainer.addView(adView);
         adView.loadAd(adRequest);
 
 

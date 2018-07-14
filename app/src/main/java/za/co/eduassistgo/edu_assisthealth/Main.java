@@ -204,8 +204,8 @@ public class Main extends AppCompatActivity {
         mViewPager.addOnPageChangeListener(new TabLayout.TabLayoutOnPageChangeListener(tabLayout));
         tabLayout.addOnTabSelectedListener(new TabLayout.ViewPagerOnTabSelectedListener(mViewPager));
 
-        RelativeLayout adViewContainer = (RelativeLayout) findViewById(R.id.adViewContainer);
-        adView = new AdView(this);
+        adView = (AdView) findViewById(R.id.adViewContainer);
+        //adView = new AdView(this);
         MobileAds.initialize(this, "ca-app-pub-9189472653918970~5767181948");
         adIDs = Arrays.asList("ca-app-pub-9189472653918970/7167825305", "ca-app-pub-9189472653918970/2699356430", "ca-app-pub-9189472653918970/4133380427");
         adView.setAdUnitId(adIDs.get((new Random()).nextInt(3)));
@@ -248,7 +248,7 @@ public class Main extends AppCompatActivity {
                 //adView.loadAd(new AdRequest.Builder().build());
             }
         });
-        adViewContainer.addView(adView);
+        //adViewContainer.addView(adView);
         adView.loadAd(adRequest);
 
     }
