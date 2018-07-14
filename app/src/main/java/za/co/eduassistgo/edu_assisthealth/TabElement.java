@@ -12,6 +12,7 @@ import android.webkit.WebChromeClient;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+import android.widget.Toast;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -83,7 +84,10 @@ public class TabElement extends Fragment {
                 return true;
             }
             else{
-
+                Intent intent = new Intent(Main.main, webActivity.class);
+                //Toast.makeText(Main.main.getApplicationContext(), url.substring(11), Toast.LENGTH_SHORT).show();
+                intent.putExtra("url", url.substring(11));
+                Main.main.startActivity(intent);
                 return true;
             }
         }

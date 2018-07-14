@@ -106,19 +106,6 @@ public class Main extends AppCompatActivity {
     SharedPreferences sharedPreferences;
     List<String> adIDs;
     public AdView adView;
-    TabItem tabHome;
-    TabItem tabHealth;
-    TabItem tabWellbeing;
-    TabItem tabParents;
-    TabItem tabChallenges;
-    TabItem tabHealthcare;
-    TabItem tabMentalIllness;
-    TabItem tabContest;
-    TabItem tabSexualViolence;
-    TabItem tabHelp;
-    TabItem tabEmergency;
-
-
 
     class Close implements OnClickListener {
         Close() {
@@ -239,7 +226,7 @@ public class Main extends AppCompatActivity {
 
             @Override
             public void onAdFailedToLoad(int errorCode) {
-
+                //showToast("Ad error: code "+errorCode);
             }
 
             @Override
@@ -344,6 +331,7 @@ public class Main extends AppCompatActivity {
         alertDialog.setNegativeButton((CharSequence) "NO", new dontSend());
         alertDialog.show();
     }
+
     public void shareit() {
         Intent intent = new Intent("android.intent.action.SEND");
         intent.setType("text/plain");

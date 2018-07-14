@@ -9,8 +9,10 @@ import android.graphics.drawable.ColorDrawable;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.TextView;
+import android.widget.Toast;
 
 
 public class contactUs extends AppCompatActivity
@@ -92,5 +94,18 @@ public class contactUs extends AppCompatActivity
         {
             contactUs.this.startActivity(new Intent("android.intent.action.VIEW", Uri.parse("https://www.instagram.com/n_sibandze")));
         }
+    }
+
+    public boolean onOptionsItemSelected(MenuItem item) {
+        int id = item.getItemId();
+        switch (id) {
+            case android.R.id.home:
+                //Toast.makeText(getApplicationContext(), "Back Pressed", Toast.LENGTH_SHORT).show();
+                onBackPressed();
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+
     }
 }
